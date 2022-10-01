@@ -8,8 +8,8 @@ Simple Abnormal Detection code using yolo v5(For Hackathon)
 4. weight and bias(wnb) : by using wnb, visualize training process and result, also can find optimal hyperparameter
 
 ### Process
-1. Create image data
-2. Create class or multi-class(Roboflow)
+1. Create image data(from scratch or opendataset)
+2. Create class or multi-class(Roboflow) label
 3. Train custum dataset(yolo v5)
 4. Adapt customized model(example.pt) to your own detection project 
 
