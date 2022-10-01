@@ -25,6 +25,7 @@ https://docs.wandb.ai/?_gl=1*1ltitp9*_ga*OTA1NTMyMDgzLjE2NjQ2MzQ2NzA.*_ga_JH1SJH
 https://docs.roboflow.com/
 
 
-### Acc
+### Trainning Result
 ![image](https://user-images.githubusercontent.com/50313997/193414514-fe9cff34-8e14-425e-bef3-eea1f2bdb8fc.png)
 
+![image](https://user-images.githubusercontent.com/50313997/193414549-13a6e5f3-d2b8-4436-9947-24a0646e0281.png)
